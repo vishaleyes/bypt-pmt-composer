@@ -1,0 +1,21 @@
+{
+    "name": "vishal/bypt-pmt",
+    "description": "TEST",
+    "type": "library",
+    "license": "development",
+    "authors": [
+        {
+            "name": "Vishal Panchal",
+            "email": "vishal.panchal@bypt.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "ByptPmt": "src/"
+        }
+    }
+}
